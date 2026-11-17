@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sachin Kumar
+# 💫 Hi 👋, I'm Sachin Kumar.
 **Aspiring Web Developer | Frontend Developer | JavaScript Enthusiast**
 
 Email Me 👉 ✉️ **sachinkumar7020a@gmail.com** 😊😊
