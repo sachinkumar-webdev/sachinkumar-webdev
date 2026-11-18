@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **sachinkumar7020a@gmail.com** 😊😊
 - 👯 **I’m looking to collaborate on:** Open Source Projects and Web Development Projects
 - 🤔 **I’m looking for help with:** Improving my JavaScript, React & Backend Development Skills
 - 💬 **Ask me about:** HTML, CSS, JavaScript, Basic React & Web Development
-- 📫 **How to reach me:** your-email@example.com
+- 📫 **How to reach me:** sachinkumar7020a@gmail.com
 - ⚡ **Fun fact:** I love turning ideas into reality through code! 🚀
 
 ## 🌐 Socials:
